@@ -1,4 +1,4 @@
-# EcoPulse — Air Quality & Health Credit System
+# EcoPulse — Air Quality & Health monitoring coin
 
 **EcoPulse** is a decentralized Air Quality & Health monitoring platform that rewards users with **ECO (EcoPulse) tokens** based on verified air-quality data and AI analysis. Built with public AQI APIs, Cardano on-chain tools, Masumi AI agents, and Eternl wallet integration — EcoPulse turns air-quality signals into on-chain incentives.
 
